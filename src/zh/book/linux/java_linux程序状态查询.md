@@ -1,5 +1,13 @@
 ---
 editLink: true
+date: 2024-11-27
+category:
+  - java
+  - linux
+tag:
+  - java排查
+  - linux排查
+
 ---
 # linux java 程序排查脚本
 

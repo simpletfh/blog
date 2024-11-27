@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: ToolForge
 heroFullScreen: false
-tagline: 你可以在这里放置你的口号与标语
+tagline: 注重高质量代码工具和解决方案的博客
 footer: 自定义你的页脚文字
 ---
 

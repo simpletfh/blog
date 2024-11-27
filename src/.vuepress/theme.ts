@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://github.com/simpletfh",
 
   author: {
     name: "Mr.Tang",
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
@@ -95,12 +95,12 @@ export default hopeTheme({
 
       displayFooter: true,
 
-      // blog: {
-      //   description: "java开发工程师",
-      //   intro: "/zh/intro.html",
-      //   // sidebarDisplay:"always",
-      //   // articlePerPage:1
-      // },
+      blog: {
+        description: "java开发工程师",
+        intro: "/zh/intro.html",
+        // sidebarDisplay:"always",
+        // articlePerPage:1
+      },
 
       // page meta
       metaLocales: {
