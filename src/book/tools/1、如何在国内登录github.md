@@ -12,6 +12,6 @@ tag:
 
 现可用软件：steam++
 
-![Alt](/assets/images/20241127142131.png "图片标题" =200x)
+<!-- ![图片描述](/assets/images/20241127142131.png) -->
 
 

@@ -3,8 +3,8 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
+  // base: "/blog/",
   base: "/blog/",
-
   locales: {
     // "/": {
     //   lang: "en-US",
