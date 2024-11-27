@@ -9,6 +9,12 @@ export const zhSidebar = sidebar({
       prefix: "book/linux/",
       children: "structure",
     },
+    {
+      text: "工具相关",
+      icon: "laptop-code",
+      prefix: "book/tools/",
+      children: "structure",
+    },
     // {
     //   text: "如何使用",
     //   icon: "laptop-code",
