@@ -97,7 +97,7 @@ export default hopeTheme({
 
       blog: {
         description: "java开发工程师",
-        intro: "/zh/intro.html",
+        intro: "/intro.html",
         // sidebarDisplay:"always",
         // articlePerPage:1
       },
